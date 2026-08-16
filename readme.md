@@ -2,7 +2,7 @@
 
 Parallax scrolling, smooth animations and an interactive booking form. Client details are changed to protect privacy.
 
-🔗 **Live demo:** https://pafuluofu.github.io/Hot-air-ballon-landing/
+🔗 **Live demo:** https://verno-dev-studio.github.io/Hot-air-ballon-landing/
 
 ## Built with
 - **HTML5**
